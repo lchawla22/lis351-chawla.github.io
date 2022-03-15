@@ -1,0 +1,81 @@
+body {
+background-color: #760A1A;
+}
+
+header  {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: monospace;
+}
+
+li {
+	color: white;
+	text-align: center;
+	border-style: solid;
+	border-width: 4px;
+	border-color: white;
+	font-family: georgia;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	display: inline;
+}
+	
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: pink;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: red;
+}
+
+h2, h3, h4, h5, h6 {
+	color: white;
+	font-family: georgia;
+	text-decoration: underline;
+}
+
+p {
+	color: white;
+	font-family: georgia;
+}
+	
+form {
+	color: white;
+	font-family: georgia;
+}
+
+section {
+	float: left;
+	height: 350px;
+	width: 800px;
+}
+
+aside {
+	float: right;
+}
+
+img {
+	height: 500px;
+	width: 400px;
+	padding: 20px 20px 20px;
+}
+
+article {
+	padding: 10px;
+}
+
+	

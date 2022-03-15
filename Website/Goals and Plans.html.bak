@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+<title>Goals and Plans</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>What do I want to do in life?</h1>
+<nav> 
+<ul>
+<li><a href="./All About Me.html">All About Me</a></li>
+<li><a href="./Background Information.html">Background Information</a></li>
+<li><a href="./Goals and Plans.html">Goals and Plans</a></li>
+<li><a href="./Personality.html">Personality</a></li>
+</ul>
+</nav>
+</header>
+
+<section>
+<article>
+<h3><b> Major and Extracurriculars</b> </h3>
+<p> Coming to UW-Madison, I wasn't really sure what I wanted to major in.
+This is why I still haven't declared a major.
+However, after taking a few classes, I do know that I would like to do something related to science.
+Even though I am undeclared, I think I might be interested in majoring in Biochemistry.
+I say this because I feel like I want the best of both worlds. 
+Majoring in just biology or just chemistry would limit me from possible experiences that I can gain by majoring in Biochemistry.</p>
+<p> Since it's my first year at college, I didn't join many clubs because I do want figure out the perfect balance for me.
+However, I have joined a student group on campus called Sikh Student Association(SSA). 
+It doesn't have a large member population, which is one of the reasons I like it so much.
+It's a religious student group that focuses on inclusion and education for the Sikh population on campus and for anyone in general.
+It's something that has made me feel more comfortable and connected to the campus and I'm very grateful to be part of this organization. </p>
+</article>
+
+<article>
+<h3> Long Term Plans </h3> 
+<p> Growing up, I always knew that I wanted to have a career in the medical field.
+I have attended a few shadow opportunities and I have narrowed it down to a few things.
+I would want to be a radiologist or a surgeon.
+My academic plan is to get my Bachelor's degree from UW-Madison and then do medical school.
+I haven't really planned where I want to go to medical school yet but I feel like I'll be able to do so by my junior year. </p>
+<p> Personally, my long term plan is have a stable job throughout so that I don't have take out a lot of loans. 
+Along with that, within the next 10 years, I do plan on visiting Italy and Japan as I mentioned earlier.
+For that, I will have to save up a lot of money, which I'm starting to do already.
+Overall, I plan to be at a better place than I currently am. </p>
+</article>
+</section>
+
+<aside>
+<img src="IMG_2422(1).jpeg" alt="Suturing at Ms.Medical Mastermind 2019"
+</aside>
+
+
+</body>
+</html>

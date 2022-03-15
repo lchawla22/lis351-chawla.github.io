@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+<title>Get to Know Me</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+<h1 style="color:white;">All About Me</h1>
+
+<nav> 
+<ul>
+<li><a href="./All About Me.html">All About Me</a></li>
+<li><a href="./Background Information.html">Background Information</a></li>
+<li><a href="./Goals and Plans.html">Goals and Plans</a></li>
+<li><a href="./Personality.html">Personality</a></li>
+</ul>
+</nav>
+
+</header>
+
+<section>
+<article>
+
+<h3> Who Am I?</h3>
+<p> Hi! My name is Lavneet Chawla.
+I am a 19 year old female studying at the University of Wisconsin - Madison.
+In my opinion, I would say that I am pretty unique.
+This is because I have many different interests across plenty of areas.
+This has allowed me explore many things and has brought me to be who I am today.</p>
+
+<p>The purpose of this website is to give a little background to who I am and what type of person I am! 
+It's just a little project that I really enjoyed creating.
+I hope it serves as a method of getting to know a little bit about me as a person!</p> <br> <br>
+
+</article>
+
+
+<p> After looking through my website, it would be helpful if you would answer the following question:</p>
+
+<form>
+<p> <b>Do you feel like you somewhat now know who I am?</b></p>
+<div>
+<input type="radio" id="yes" name="know_me" value="Yes">
+<label for="yes">Yes</label> <br>
+<input type="radio" id="not really" name="know_me" value="Not really">
+<label for="not really">Not Really</label> <br>
+<input type="radio" id="no" name="know_me" value="No">
+<label for="no"> Nope</label>
+</div> <br>
+<div>
+<button type="submit">Submit</button>
+</div>
+</form>
+
+</section>
+
+<aside>
+<img src="IMG_5198.jpg" alt="Me" />
+</aside>
+
+</body>
+</html>
